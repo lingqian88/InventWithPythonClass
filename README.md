@@ -1,2 +1,2 @@
 # InventWithPythonClass
-Compiled notebooks for teaching class from Invent with Python book
+Compiled notebooks for teaching class from [Invent with Python](https://inventwithpython.com) book
