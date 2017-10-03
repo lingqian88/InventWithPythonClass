@@ -9,6 +9,13 @@ ipython
 >>>
 ```
 
+After that we will use jupyter-notebook. Click on new in the upper right corner for a new notebook.
+
+```sh
+source activate invent
+jupyter-notebook
+```
+
 ### Math
 * Addition
 * Subtraction
